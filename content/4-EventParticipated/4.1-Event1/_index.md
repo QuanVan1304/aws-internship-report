@@ -94,7 +94,4 @@ Attending the **FCAJ Knowledge Sharing Session** was an eye-opening experience, 
 - Technology changes constantly; having a solid foundational mindset (System Design, DevOps culture) is more important than just knowing how to use tools.
 - English proficiency and a Growth mindset are prerequisites to surviving and thriving in multinational corporations.
 
-#### Some event photos
-*Add your event photos here (e.g., check-in photos, photos of speaker slides...)*
-
 > Overall, the event provided not only "hardcore" technical knowledge but also a comprehensive view of corporate culture, helping me clearly shape my learning and career path for the upcoming journey.

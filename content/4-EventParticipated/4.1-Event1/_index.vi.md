@@ -89,7 +89,4 @@ Tham gia sự kiện **FCAJ Knowledge Sharing Session** là một trải nghiệ
 - Công nghệ thay đổi liên tục, việc sở hữu một tư duy nền tảng vững chắc (System Design, DevOps culture) quan trọng hơn việc chỉ biết dùng công cụ.
 - Trình độ tiếng Anh và khả năng tự học (Growth mindset) là điều kiện kiên quyết để tồn tại trong các tập đoàn đa quốc gia.
 
-#### Một số hình ảnh khi tham gia sự kiện
-*Thêm các hình ảnh của bạn tại đây (ví dụ: ảnh check-in, ảnh chụp các slide của diễn giả...)*
-
 > Tổng thể, sự kiện không chỉ cung cấp những kiến thức kỹ thuật "hardcore" mà còn mang đến cái nhìn toàn cảnh về văn hóa doanh nghiệp, giúp tôi định hình rõ ràng hơn lộ trình học tập và làm việc của mình trong chặng đường sắp tới.

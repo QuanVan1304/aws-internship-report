@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4. </b> "
 ---
 
-Trong quá trình thực tập, em đã tham gia 2 events, với mỗi event là một trải nghiệm đáng nhớ với những kiến thức mới, hay và bổ ích, cùng với đó là những món quà và những khoảnh khắc rất tuyệt vời. Dưới đây là mô tả chi tiết các sự kiện em đã tham gia:
+Trong quá trình thực tập, em đã tham gia 3 events, với mỗi event là một trải nghiệm đáng nhớ với những kiến thức mới, hay và bổ ích, cùng với đó là những món quà và những khoảnh khắc rất tuyệt vời. Dưới đây là mô tả chi tiết các sự kiện em đã tham gia:
 
 ### [Event 1](4.1-Event1/)
 &emsp;**Tên sự kiện:** FCAJ Knowledge Sharing Session
@@ -18,10 +18,10 @@ Trong quá trình thực tập, em đã tham gia 2 events, với mỗi event là
 &emsp;**Vai trò trong sự kiện:** Người tham dự 
 
 &emsp;**Mô tả sự kiện:**  
-&emsp;Đây là sự kiện đầu tiên em tham gia trực tiếp, bao gồm 4 chủ đề chia sẻ vô cùng thiết thực xoay quanh kỹ thuật và định hướng nghề nghiệp:
-&emsp;1. **"From First Cloud AI Journey to AWS Partner"** do anh Danh Hoàng Hiếu Nghị (AI Engineer, AWS Community Builder) trình bày.
-&emsp;2. **"What does a DevOps Engineer really do?"** – Đi sâu vào công việc thực tế hàng ngày của một kỹ sư DevOps.
-&emsp;3. **"A scalable URL shortening service on AWS"** – Một bài toán System Design kinh điển được trình bày bởi Đinh Trung Kiên và Nguyễn Minh Thọ.
+&emsp;Đây là sự kiện đầu tiên em tham gia trực tiếp, bao gồm 4 chủ đề chia sẻ vô cùng thiết thực xoay quanh kỹ thuật và định hướng nghề nghiệp:  
+&emsp;1. **"From First Cloud AI Journey to AWS Partner"** do anh Danh Hoàng Hiếu Nghị (AI Engineer, AWS Community Builder) trình bày.  
+&emsp;2. **"What does a DevOps Engineer really do?"** – Đi sâu vào công việc thực tế hàng ngày của một kỹ sư DevOps.  
+&emsp;3. **"A scalable URL shortening service on AWS"** – Một bài toán System Design kinh điển được trình bày bởi Đinh Trung Kiên và Nguyễn Minh Thọ.  
 &emsp;4. **"Câu chuyện thực tế đến văn hóa tại tập đoàn đa quốc gia"** – Những chia sẻ giá trị từ góc nhìn của Mr. Dat Pham (Data Analytics Engineer) và Mr. Cường Nguyễn (Process Engineer).
 
 &emsp;**Kết quả / Giá trị đạt được:**  
@@ -43,3 +43,20 @@ Trong quá trình thực tập, em đã tham gia 2 events, với mỗi event là
 
 &emsp;**Kết quả / Giá trị đạt được:**  
 &emsp;Em hiểu được cách các doanh nghiệp thực sự triển khai GenAI vào vận hành thực tế thay vì chỉ nằm ở mức ý tưởng. Bài học lớn nhất là nắm bắt được tầm quan trọng của việc kết hợp "Human-in-the-loop" (sự can thiệp của con người) trong các luồng AI và các phương pháp bảo mật dữ liệu riêng tư của doanh nghiệp khi tích hợp với các mô hình ngôn ngữ lớn (LLM).
+
+---
+
+### [Event 3](4.3-Event3/)
+&emsp;**Tên sự kiện:** AWS FCAJ Agent Forge - Deepdive
+
+&emsp;**Thời gian:** Ngày 01/08/2026
+
+&emsp;**Địa điểm:** Trực tiếp 
+
+&emsp;**Vai trò trong sự kiện:** Người tham dự 
+
+&emsp;**Mô tả sự kiện:**  
+&emsp;Sự kiện là buổi onboard thực tế kết hợp đào tạo chuyên sâu về Agentic AI do anh Nghĩa và bạn Hải Anh dẫn dắt. Buổi chia sẻ đi sâu vào việc phân biệt các cấp độ tự chủ của AI, bóc tách 3 lớp kiến trúc cốt lõi của Amazon Bedrock Agent Core (Runtime Environment, Identity & Access Management, và Gateway). Đồng thời, sự kiện còn có phần Hands-on Lab để người tham dự cấu hình trực tiếp và thực hành các chiến lược vận hành an toàn (Best Practices) cho doanh nghiệp.
+
+&emsp;**Kết quả / Giá trị đạt được:**  
+&emsp;Qua sự kiện, em không chỉ được trải nghiệm không gian và văn hóa làm việc chuyên nghiệp trực tiếp tại trụ sở AWS mà còn nắm vững tư duy thiết kế hệ thống AI quy mô lớn. Bài học đắt giá nhất là hiểu rõ tầm quan trọng của việc bảo mật từ tầng mạng (PrivateLink) đến ảo hóa (Firecracker), cơ chế kiểm duyệt "Human-in-the-loop", và cách các lớp kiến trúc phối hợp để tạo ra một hệ thống Agentic AI an toàn, linh hoạt.

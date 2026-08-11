@@ -20,7 +20,7 @@ You will set up two main subsystems to manage the AI model's lifecycle:
 #### Content
 
 1. [Workshop overview](5.1-workshop-overview/)
-2. [Prerequisites & Infrastructure](5.2-prerequisites/)
+2. [Prerequisites & Infrastructure](5.2-Prerequiste/)
 3. [Data Preprocessing](5.3-data-preprocessing/)
 4. [Model Training & Pipeline Automation](5.4-model-training-and-pipeline/)
 5. [Serverless API & UI Deployment](5.5-endpoint-and-serverless-api/)

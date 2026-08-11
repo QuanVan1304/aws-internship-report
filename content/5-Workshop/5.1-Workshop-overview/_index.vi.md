@@ -31,7 +31,8 @@ pre: " <b> 5.1. </b> "
 | **Tài chính** | Biến động doanh thu bất ngờ | Dự báo doanh thu chủ động |
 
 ## 1.3. Sơ đồ Kiến trúc Hệ thống (4 Tầng)
-
+![Sơ đồ kiến trúc tổng thể (End-to-End Architecture)](/images/5-Workshop/5.1-Workshop-overview/diagram.jpg)
+*Sơ đồ kiến trúc tổng thể (End-to-End Architecture) của dự án AWS MLOps Sales Forecasting. Sơ đồ minh họa toàn bộ luồng tương tác từ môi trường phát triển cục bộ (Local Development), lưu trữ dữ liệu trên Amazon S3, theo dõi thí nghiệm qua SageMaker Experiments, cho đến khi triển khai dự báo tự động với Serverless API (API Gateway & Lambda) và giám sát trôi dạt dữ liệu (Data Drift) qua CloudWatch.*
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │                       DATA TIER                             │

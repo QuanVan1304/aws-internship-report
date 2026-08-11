@@ -21,7 +21,7 @@ Chúng ta sẽ thiết lập 2 phân hệ chính để quản lý vòng đời c
 #### Nội dung
 
 1. [Tổng quan về workshop](5.1-workshop-overview/)
-2. [Yêu cầu Tiền đề & Hạ tầng](5.2-prerequisites/)
+2. [Yêu cầu Tiền đề & Hạ tầng](5.2-Prerequiste/)
 3. [Tiền xử lý Dữ liệu](5.3-data-preprocessing/)
 4. [Huấn luyện & Tự động hóa Pipeline](5.4-model-training-and-pipeline/)
 5. [Triển khai Serverless API & UI](5.5-endpoint-and-serverless-api/)

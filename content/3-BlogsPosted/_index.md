@@ -13,3 +13,6 @@ This blog shares the journey and practical experience of migrating a Machine Lea
 
 ### [Blog 2 - IS DEEP LEARNING ALWAYS BETTER THAN TRADITIONAL MACHINE LEARNING? LESSONS ON OPTIMIZING PERFORMANCE AND COST ON AWS SAGEMAKER](3.2-Blog2/)
 This post delves into a performance and cost comparison between Deep Learning (LSTM) and traditional Machine Learning (XGBoost) for solving an E-commerce sales forecasting problem on AWS. It highlights the crucial role of Feature Engineering for tabular data, explains how AWS SageMaker calculates training costs, and provides actionable strategies for selecting a model that achieves the perfect balance between accuracy, training time, and deployment expenses.
+
+### [Blog 3 - TRACKING MACHINE LEARNING EXPERIMENTS WITH AMAZON SAGEMAKER EXPERIMENTS](3.3-Blog3/)
+This post introduces how to solve the challenge of managing and tracking Machine Learning model experiments using Amazon SageMaker Experiments. The blog provides a detailed guide on integrating this tracking tool into local Python scripts via `boto3`, enabling engineers to easily perform multi-dimensional comparisons of hyperparameters, visualize learning curves, and centrally manage the model lifecycle without the strict requirement of migrating the entire training infrastructure to the Cloud.

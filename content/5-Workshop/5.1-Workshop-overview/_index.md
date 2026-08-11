@@ -31,6 +31,8 @@ pre: " <b> 5.1. </b> "
 
 ## 1.3. System Architecture Diagram (4 Tiers)
 
+![End-to-End Architecture Diagram](/images/5-Workshop/5.1-Workshop-overview/diagram.jpg)
+*End-to-End Architecture Diagram of the AWS MLOps Sales Forecasting project. The diagram illustrates the complete workflow from local development, data storage on Amazon S3, and experiment tracking via SageMaker Experiments, to automated forecast deployment with a Serverless API (API Gateway & Lambda) and data drift monitoring via CloudWatch.*
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │                       DATA TIER                             │
