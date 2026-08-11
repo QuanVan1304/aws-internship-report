@@ -70,7 +70,5 @@ Tham gia sự kiện Onboard và đào tạo chuyên sâu tại văn phòng AWS 
 #### Bài học rút ra
 - Để xây dựng một hệ thống Agentic AI thành công, một mô hình LLM thông minh là chưa đủ. Quan trọng hơn, kiến trúc phần mềm bao quanh nó (middleware, identity, runtime) phải thực sự vững chắc, an toàn và dễ kiểm soát.
 
-#### Một số hình ảnh khi tham gia sự kiện
-*Thêm các hình ảnh check-in ngày onboard tại văn phòng AWS và ảnh thực hành lab tại đây...*
 
 > Tổng thể, sự kiện Onboard kết hợp đào tạo chuyên sâu này không chỉ trang bị những kiến thức kỹ thuật "hardcore" về Agentic AI mà còn giúp tôi hòa nhập, hiểu rõ hơn về văn hóa kỹ thuật và định hình rõ ràng tác phong làm việc chuyên nghiệp tại AWS.

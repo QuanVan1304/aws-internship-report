@@ -70,7 +70,5 @@ Attending the Onboarding and in-depth training event at the AWS office on August
 #### Lessons Learned
 - To build a successful Agentic AI system, a smart LLM model is not enough. More importantly, the surrounding software architecture (middleware, identity, runtime) must be truly solid, secure, and easy to control.
 
-#### Some Photos from the Event
-*Add check-in photos from the onboarding day at the AWS office and lab practice photos here...*
 
 > Overall, this combined Onboarding and in-depth training event not only equipped me with "hardcore" technical knowledge about Agentic AI but also helped me integrate, better understand the engineering culture, and clearly shape a professional working style at AWS.
